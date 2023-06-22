@@ -29,10 +29,7 @@ with open('shara.txt','r') as file1:
 print('num of words={}'.format(num_words)) 
 ```
 ### OUTPUT:
-![image](https://github.com/santhanalakshmi04/Word-count/assets/119475762/2f2eb591-57cc-4dea-a8b8-c72ee64955d3)
-
-![image](https://github.com/santhanalakshmi04/Word-count/assets/119475762/8bbc1648-76e5-4c2d-b56e-f3eb0b1f45d7)
-
+![Screenshot (417)](https://github.com/santhanalakshmi04/Word-count/assets/119475762/a121470f-c628-400e-bf3c-3fa3f8f320b0)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
